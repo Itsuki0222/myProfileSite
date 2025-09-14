@@ -2,10 +2,11 @@ h1 {
   font-size: 0px;
 }
 .暇人たまお {
+ display: flex;
+ flex-grow: 1;
  text-align: center;
  width: auto;
  height: auto;
- margin-top: 270px;
 }
 .公式サイト {
   text-align: center;
@@ -73,4 +74,5 @@ h1 {
 .コピーライト {
   text-align: center;
   font-family: Meiryo;
+
 }
