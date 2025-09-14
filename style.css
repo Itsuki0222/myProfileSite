@@ -4,6 +4,7 @@ h1 {
 .暇人たまお {
  display: flex;
  flex-grow: 1;
+ justify-content: center;
  text-align: center;
  width: auto;
  height: auto;
@@ -76,3 +77,4 @@ h1 {
   font-family: Meiryo;
 
 }
+
